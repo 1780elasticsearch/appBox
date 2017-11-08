@@ -22,11 +22,18 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <processorPath useClasspath="true" />
-        <module name="appBox" />
+        <module name="appSpider" />
+        <module name="common" />
+        <module name="esoperator" />
+        <module name="hbaseOperator" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="appBox" target="1.5" />
+      <module name="appSpider" target="1.5" />
+      <module name="common" target="1.5" />
+      <module name="esoperator" target="1.5" />
+      <module name="hbaseOperator" target="1.5" />
     </bytecodeTargetLevel>
   </component>
 </project>

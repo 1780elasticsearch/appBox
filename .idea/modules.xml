@@ -3,6 +3,10 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/appBox.iml" filepath="$PROJECT_DIR$/appBox.iml" />
+      <module fileurl="file://$PROJECT_DIR$/appSpider/appSpider.iml" filepath="$PROJECT_DIR$/appSpider/appSpider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/common/common.iml" filepath="$PROJECT_DIR$/common/common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/esoperator/esOperator.iml" filepath="$PROJECT_DIR$/esoperator/esOperator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hbaseOperator/hbaseOperator.iml" filepath="$PROJECT_DIR$/hbaseOperator/hbaseOperator.iml" />
     </modules>
   </component>
 </project>
